@@ -1,56 +1,46 @@
 
-  # project purrrrr
+  # Project Title
 
   ## Description
 
-  lorem ipsum
+  project description sample
 
   ## Table of Contents
 
-  
   - [Installation](#installation)
-  
   - [Usage](#usage)
-  
   - [License](#license)
-  
   - [Contributing](#contributing)
-  
   - [Tests](#tests)
   - [Questions](#questions)
 
-  
   ## Installation
 
-  installation instructions sample
+  these are installation instructions
   
 
-  
   ## Usage
 
-  usage instructions sample
+  these are the project's usage instructions
   
 
-  
   ## License
 
-  Boost Software License 1.0
+  The MIT License
   
 
-  
   ## Contributing
 
-  please contribute
+  these are the contribution guidelines
   
 
-  
   ## Tests
 
-  test away
+  these are the project's test instructions
   
 
   ## Questions
 
-  You can reach me with questions through email at emailaddress
+  You can reach me with questions through email at email@address.com
 
   [My GitHub](https://github.com/yoli19)
